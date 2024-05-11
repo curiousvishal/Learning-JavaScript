@@ -1,0 +1,9 @@
+javascript execution context---->
+
+1: Global execution context --- under this 
+2: function execution context
+3: eval execution context
+
+2 phases of javascript ----->
+1: memory creation phase
+2: execution phase 
